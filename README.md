@@ -8,5 +8,4 @@ A 2019 launcher made with Electron. Made to eventually replace the [current fsol
 * Linux and MacOS support.
 
 ## Early Previews
-![fsolauncher](https://i.imgur.com/1733DbG.png)
-![fsolauncher](https://i.imgur.com/txxg5wt.png)
+![fsolauncher](https://i.imgur.com/ysOBy2p.png)
