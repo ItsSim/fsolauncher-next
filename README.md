@@ -1,5 +1,5 @@
 # fsolauncher-next
-A 2020 launcher made with Electron. Made to eventually replace the [current fsolauncher](https://github.com/ItsSim/fsolauncher) which is being used in open beta on Windows and macOS.
+A 2020 launcher made with Electron. Made to eventually replace the current [launcher](https://github.com/ItsSim/fsolauncher) which is being used in open beta on Windows and macOS.
 
 ## Goals
 * A more intuitive, less clicky launcher.
