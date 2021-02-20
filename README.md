@@ -10,4 +10,3 @@ A 2021 FreeSO Launcher made with Electron.
 * CLI mode.
 
 ![Open beta theme](https://i.imgur.com/3KvDTPG.png)
-![Open beta theme dark](https://i.imgur.com/4QdoDdC.png)
