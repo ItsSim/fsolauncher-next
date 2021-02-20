@@ -1,5 +1,5 @@
 # fsolauncher-next
-A 2021 FreeSO launcher made with Electron. 
+A 2021 FreeSO Launcher made with Electron. 
 
 ## Goals
 * A more intuitive, less clicky launcher.
