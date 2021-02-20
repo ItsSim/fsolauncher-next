@@ -1,16 +1,11 @@
 # fsolauncher-next
-A 2020 launcher made with Electron. Made to eventually replace the current [launcher](https://github.com/ItsSim/fsolauncher) which is being used in open beta on Windows and macOS.
+A 2021 launcher made with Electron. 
+Made to eventually replace [the current launcher](https://github.com/ItsSim/fsolauncher) which is being used in open beta on Windows and macOS.
 
 ## Goals
 * A more intuitive, less clicky launcher.
-* A fresh new look ready for 2020.
-* Full rewrite! The current launcher has been pretty much the same since 2016.
+* Widget system with plenty of game stats.
 * Windows and macOS support.
-
-## Early Previews (not final)
-### Windows
-![fsolauncher](https://i.imgur.com/ysOBy2p.png)
-
-### macOS
-![fsolauncher](https://i.imgur.com/CAORnMg.png)
-![fsolauncher](https://i.imgur.com/wO5bQjo.png)
+* A fresh new look ready for 2021.
+* Full rewrite! The current launcher has been pretty much the same since 2016.
+* CLI mode
