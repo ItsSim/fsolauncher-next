@@ -11,4 +11,4 @@ Made to eventually replace [the current launcher](https://github.com/ItsSim/fsol
 * CLI mode.
 
 
-![fsolauncher](https://i.imgur.com/7EEsFLP.png)
+![fsolauncher](https://i.imgur.com/3KvDTPG.png)
