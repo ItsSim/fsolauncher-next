@@ -8,4 +8,7 @@ Made to eventually replace [the current launcher](https://github.com/ItsSim/fsol
 * Windows and macOS support.
 * A fresh new look ready for 2021.
 * Full rewrite! The current launcher has been pretty much the same since 2016.
-* CLI mode
+* CLI mode.
+
+
+![fsolauncher](https://i.imgur.com/7EEsFLP.png)
