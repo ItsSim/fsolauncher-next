@@ -1,6 +1,5 @@
 # fsolauncher-next
-A 2021 launcher made with Electron. 
-Made to eventually replace [the current launcher](https://github.com/ItsSim/fsolauncher-legacy) which is being used in open beta on Windows and macOS.
+A 2021 FreeSO launcher made with Electron. 
 
 ## Goals
 * A more intuitive, less clicky launcher.
@@ -10,5 +9,5 @@ Made to eventually replace [the current launcher](https://github.com/ItsSim/fsol
 * Full rewrite! The current launcher has been pretty much the same since 2016.
 * CLI mode.
 
-
-![fsolauncher](https://i.imgur.com/3KvDTPG.png)
+![Open beta theme](https://i.imgur.com/3KvDTPG.png)
+![Open beta theme dark](https://i.imgur.com/4QdoDdC.png)
