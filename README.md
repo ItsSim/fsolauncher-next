@@ -17,4 +17,4 @@ A 2021 FreeSO Launcher made with Electron.
    - <strong>How:</strong> The launcher now supports CLI and GUI modes. This means that if you prefer to use the launcher as a command line application, you will be able to. Not all features are supported in CLI-mode. 
 
 ## Transition plans
-The launcher will be made available through a regular update.
+The launcher will be made available to current users through a regular update. New users will be able to download it from https://beta.freeso.org as usual.
