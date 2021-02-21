@@ -1,5 +1,6 @@
 # fsolauncher-next
 A 2021 FreeSO Launcher made with Electron. 
+![Open beta theme](https://i.imgur.com/3KvDTPG.png)
 
 ## Goals
 * <strong>A more intuitive, less clicky launcher.</strong>
@@ -15,4 +16,5 @@ A 2021 FreeSO Launcher made with Electron.
 * <strong>Hybrid features (CLI/GUI mode).</strong>
    - <strong>How:</strong> The launcher now supports CLI and GUI modes. This means that if you prefer to use the launcher as a command line application, you will be able to. Not all features are supported in CLI-mode. 
 
-![Open beta theme](https://i.imgur.com/3KvDTPG.png)
+## Transition plans
+The launcher will be made available through a regular update.
