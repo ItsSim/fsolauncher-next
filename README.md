@@ -1,6 +1,7 @@
 # fsolauncher-next
 A 2021 FreeSO Launcher made with Electron. 
-![Open beta theme](https://i.imgur.com/mh4qwUB.png)
+![Default theme](https://i.imgur.com/MQAF0z7.png)
+(Design may be subject to change)
 
 ## Goals
 * <strong>A more intuitive, less clicky launcher.</strong>
