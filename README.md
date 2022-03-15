@@ -8,7 +8,7 @@ A 2022 FreeSO Launcher made with Electron.
    - <strong>How:</strong> The launcher now consumes FreeSO’s APIs in order to offer you the latest information about what’s going on in-game, in a series of widgets that are rearrangeable on the launcher’s homescreen.
 * <strong>Windows, macOS (Intel/M1) and linux support.</strong>
    - <strong>How:</strong> The previous launcher already achieved macOS support. This version is taking it a step further to support linux-based operating systems as well.
-* <strong>A fresh new look ready for 2021.</strong>
+* <strong>A fresh new look ready for 2022.</strong>
    - <strong>How:</strong> The whole interface is being revamped, updating the design to keep up with current times. It achieves a modern look-and-feel while keeping the familiarity of the launcher you already know. What’s more, the user interface is able to be extended (i.e. themed) via external files.
 * <strong>Full rewrite! The current launcher has been pretty much the same since 2016.</strong>
    - <strong>How:</strong> By using the latest version of Electron and following popular JavaScript conventions with modern frameworks. This makes the launcher overall better and makes it easier for people to contribute to the repository.
