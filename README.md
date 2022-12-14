@@ -1,6 +1,9 @@
 # fsolauncher-next
 A next-gen FreeSO Launcher.
 
+(UI design not final)
+![image](https://user-images.githubusercontent.com/35347872/207641656-7da3433b-6d66-461d-8c48-14a08f00a4d1.png)
+
 ## Goals
 * <strong>More than x10 smaller, lower memory usage, and improved startup times.</strong>
    - <strong>How:</strong> By ditching Electron and using a desktop application framework that does not bundle Chromium.
@@ -24,4 +27,4 @@ A next-gen FreeSO Launcher.
    - <strong>How:</strong> The launcher now supports CLI and GUI modes. This means that if you prefer to use the launcher as a command line application, you will be able to.
 
 ## Transition plans
-The launcher would be made available to current users through a regular update. New users would be able to download it from https://beta.freeso.org as usual.
+TBD
